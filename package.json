@@ -1,0 +1,22 @@
+{
+    "name": "lt-solarized-light",
+    "displayName": "LT Solarized light",
+    "description": "Personalized Solarized Light theme",
+    "version": "0.0.1",
+    "publisher": "lttr",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LT Solarized light",
+                "uiTheme": "vs",
+                "path": "./lt-solarized-color-theme.json"
+            }
+        ]
+    }
+}
