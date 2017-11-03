@@ -110,14 +110,14 @@
 			"name": "Regexp",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#6c71c4"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#D33682"
+				"foreground": "#268BD2"
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#657b83"
+				"foreground": "#b58900"
 			}
 		},
 		{
@@ -157,9 +157,7 @@
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
-			"settings": {
-				"foreground": "#6c71c4"
-			}
+			"settings": { }
 		},
 		{
 			"name": "Variable start",
@@ -205,7 +203,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#CB4B16"
+				"foreground": "#6c71c4"
 			}
 		},
 		{
@@ -342,7 +340,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#B58900"
+				"foreground": "#93A1A1"
 			}
 		},
 		{
