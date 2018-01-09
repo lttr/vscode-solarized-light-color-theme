@@ -53,7 +53,7 @@
 		"pickerGroup.border": "#2aa19899",
 		"pickerGroup.foreground": "#2aa19899",
 		"progressBar.background": "#b58900",
-		"selection.background": "#e7c1a7",
+		"selection.background": "#eae4d1",
 		"sideBar.background": "#eee8d5",
 		"sideBarTitle.foreground": "#586e75",
 		"statusBar.background": "#eee8d5",
@@ -151,19 +151,22 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#268BD2"
+				"foreground": "#b58900"
 			}
 		},
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
-			"settings": { }
+			"settings": {
+				"foreground": "#657b83"
+			}
 		},
 		{
 			"name": "Variable start",
 			"scope": "punctuation.definition.variable",
 			"settings": {
 				"foreground": "#859900"
+				// "foreground": "#657b83"
 			}
 		},
 		{
@@ -193,7 +196,7 @@
 				"keyword.other.new"
 			],
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#b58900"
 			}
 		},
 		{
@@ -244,14 +247,14 @@
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#859900"
+				"foreground": "#657b83"
 			}
 		},
 		{
 			"name": "Continuation",
 			"scope": "punctuation.separator.continuation",
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#657b83"
 			}
 		},
 		{
@@ -268,7 +271,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#859900"
+				"foreground": "#657b83"
 			}
 		},
 		{
@@ -282,9 +285,16 @@
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"foreground": "#859900"
+				// "foreground": "#859900"
+				"foreground":"#657b83"
 			}
-
+		},
+		{
+			"name": "Typescript primitive",
+			"scope": "support.type.primitive",
+			"settings": {
+				"foreground": "#B58900"
+			}
 		},
 		{
 			"name": "Invalid",
@@ -365,7 +375,8 @@
 			"name": "Markup Headings",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#268BD2"
+				"fontStyle": "bold",
+				"foreground": "#657b83"
 			}
 		},
 		{
@@ -373,7 +384,7 @@
 			"scope": "markup.heading.setext",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#268BD2"
+				"foreground": "#657b83"
 			}
 		},
 		{
