@@ -286,12 +286,22 @@
 			"scope": "support.other.variable",
 			"settings": {
 				// "foreground": "#859900"
-				"foreground":"#657b83"
+				"foreground": "#657b83"
 			}
 		},
 		{
 			"name": "Typescript primitive",
 			"scope": "support.type.primitive",
+			"settings": {
+				"foreground": "#B58900"
+			}
+		},
+		{
+			"name": "Reset JavaScript string interpolation expression",
+			"scope": [
+				"meta.template.expression.js",
+				"meta.template.expression.ts"
+			],
 			"settings": {
 				"foreground": "#B58900"
 			}
