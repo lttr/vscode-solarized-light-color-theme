@@ -14,7 +14,7 @@
 		"dropdown.border": "#d3af86",
 		"editor.background": "#fdf6e3",
 		"editor.findMatchBackground": "#eee8d5",
-		"editor.findMatchHighlightBackground": "#f7c399",
+		"editor.findMatchHighlightBackground": "#eee8d5",
 		"editor.foreground": "#657b83",
 		"editor.lineHighlightBackground": "#eee8d5",
 		"editor.selectionBackground": "#eae4d1",
@@ -37,7 +37,7 @@
 		"input.foreground": "#657b83",
 		"input.placeholderForeground": "#586e75aa",
 		"inputOption.activeBorder": "#d3af86",
-		"list.activeSelectionBackground": "#dfca88",
+		"list.activeSelectionBackground": "#e2cb80",
 		"list.activeSelectionForeground": "#6c6c6c",
 		"list.focusBackground": "#dfca8866",
 		"list.highlightForeground": "#b58900",
@@ -53,7 +53,7 @@
 		"pickerGroup.border": "#2aa19899",
 		"pickerGroup.foreground": "#2aa19899",
 		"progressBar.background": "#b58900",
-		"selection.background": "#eae4d1",
+		"selection.background": "#e2cb80",
 		"sideBar.background": "#eee8d5",
 		"sideBarTitle.foreground": "#586e75",
 		"statusBar.background": "#eee8d5",
@@ -95,7 +95,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#93A1A1"
 			}
 		},
@@ -176,7 +176,7 @@
 				"punctuation.section.embedded.end"
 			],
 			"settings": {
-				"foreground": "#D30102"
+				"foreground": "#cb4b16"
 			}
 		},
 		{
