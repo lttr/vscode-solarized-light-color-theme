@@ -2,7 +2,7 @@
     "name": "lt-solarized-light",
     "displayName": "LT Solarized light",
     "description": "Personalized Solarized Light theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "lttr",
     "engines": {
         "vscode": "^1.14.0"
