@@ -325,10 +325,13 @@
 
     "list.activeSelectionBackground": "#DFCA88",
     "list.activeSelectionForeground": "#6C6C6C",
-    "list.inactiveSelectionBackground": "#D1CBB8",
+    "list.inactiveSelectionBackground": "#dfdbcd8a",
     "list.inactiveSelectionForeground": "#6C6C6C",
+    "list.inactiveFocusBackground": "#DFCA8866",
     "list.focusBackground": "#DFCA8866",
+    "list.focusForeground": "#6C6C6C",
     "list.hoverBackground": "#DFCA8844",
+    "list.hoverForeground": "#6C6C6C",
     "list.highlightForeground": "#B58900",
 
     // Editor
