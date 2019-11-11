@@ -354,8 +354,8 @@
     "editor.findMatchBackground": "#e7c040",
     "editor.findMatchHighlightBackground": "#ebd077",
     "editor.findRangeHighlightBackground": "#ebdba6",
-    "editor.wordHighlightBackground": "#64646440",
-    "editor.wordHighlightStrongBackground": "#1675b440",
+    "editor.wordHighlightBackground": "#a0adb640",
+    "editor.wordHighlightStrongBackground": "#75a8ca40",
 
     // Editor: Peek View
     "peekViewResult.background": "#eee8d5",
