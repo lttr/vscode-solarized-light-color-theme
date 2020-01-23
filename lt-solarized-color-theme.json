@@ -366,7 +366,7 @@
 
     // Workbench: Title
     "titleBar.activeBackground": "#574f4a",
-    "titleBar.activeForeground": "#fffbf2",
+    "titleBar.activeForeground": "#e6e2d8",
     "titleBar.inactiveBackground": "#574f4a",
     "titleBar.inactiveForeground": "#b4b2b0",
     "titleBar.border": "#574f4a",
