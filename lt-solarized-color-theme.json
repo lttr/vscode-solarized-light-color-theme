@@ -365,11 +365,17 @@
     "peekViewEditor.matchHighlightBackground": "#7744aa40",
 
     // Workbench: Title
-    "titleBar.activeBackground": "#574f4a",
-    "titleBar.activeForeground": "#e6e2d8",
-    "titleBar.inactiveBackground": "#574f4a",
-    "titleBar.inactiveForeground": "#b4b2b0",
-    "titleBar.border": "#574f4a",
+    // "titleBar.activeBackground": "#574f4a",
+    // "titleBar.activeForeground": "#e6e2d8",
+    // "titleBar.inactiveBackground": "#574f4a",
+    // "titleBar.inactiveForeground": "#b4b2b0",
+    // "titleBar.border": "#574f4a",
+    // PopOS Gnome colors
+    "titleBar.activeBackground": "#524f4c",
+    "titleBar.activeForeground": "#ededed",
+    "titleBar.inactiveBackground": "#524f4c",
+    "titleBar.inactiveForeground": "#97a4ab",
+    "titleBar.border": "#524f4c",
 
     // Workbench: Editors
     "editorGroup.border": "#ddd6c1",
